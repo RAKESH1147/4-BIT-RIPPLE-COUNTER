@@ -36,9 +36,9 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **PROGRAM**
 
-Developed by: ASTLE JOE A S
+Developed by: RAKESH K S
 
-RegisterNumber: 24004571
+RegisterNumber: 24006757
 
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.*/
 ```
@@ -74,9 +74,7 @@ module ripple (
     endgenerate
 endmodule
 ```
- Developed by: RegisterNumber:
-*/
-
+ 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 ![WhatsApp Image 2024-12-17 at 13 25 57_0ddfbabc](https://github.com/user-attachments/assets/053f334b-09a5-4546-ab37-0320f5a40348)
 
